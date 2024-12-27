@@ -1,5 +1,5 @@
-# session7
-Session 7 assignment
+# ml_training_architectures_sagemaker
+Training on different architectures and final architecture is trained on Amazon sagemaker
 
 This repository is for the DNN arhitecture change steps on MNIST dataset to achieve 99.4 accuracy in *K parameters and within 15 epochs
 I have achived the target in 3 steps below

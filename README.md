@@ -28,3 +28,15 @@ I have achived the target in 3 steps below
 **Result**: I have got Train accuracy: 98.56 validation accuracy: 99.41 Number of parameters: 8,582
 
 **Analysis**: In this step, I could see the validation accuracy is 99.41. However, when I check the last 5 epochs validation accuracies are: 99.38,99,41,99.39,99,39,99.41 which is more steady with less variance so model has stabilized. I also observe that validation accuracy 99.41 is much higher than training accuracy 98.56. These are because with image augmentation, as CNN could learn from more images. With this I have achieved all the requirements as mentioned in the assignment
+
+**Training on SageMaker
+
+Screenshot of notebook on SageMaker with ml.g4dn.2xlarge instance 
+
+![Notebook on Sagemaker](/screenshot_notebook_sagemaker.png)
+
+Screenshot of training logs in Sagemaker
+
+![Training Logs Part1](/training_logs1_screenshot.png)
+
+![Training Logs Part1](/training_logs2_screenshot.png)

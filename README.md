@@ -35,8 +35,7 @@ Screenshot of notebook on SageMaker with ml.g4dn.2xlarge instance
 
 ![Notebook on Sagemaker](/screenshot_notebook_sagemaker.png)
 
-Screenshots of training logs in Sagemaker
+Screenshots of Files uploaded to Sagemaker
 
-![Training Logs Part1](/training_logs1_screenshot.png)
+![Training Logs Part1](/files_uploaded_sagemaker.png)
 
-![Training Logs Part1](/training_logs2_screenshot.png)
